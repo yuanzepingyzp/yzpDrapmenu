@@ -19,6 +19,5 @@
 </html>
 ```
 ##API
-name string define the content of the dropbutton
-<br>
-items array define the content of dropmenuList
+#####name string define the content of the dropbutton
+#####items array define the content of dropmenuList
